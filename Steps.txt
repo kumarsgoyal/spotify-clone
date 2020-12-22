@@ -1,0 +1,15 @@
+// Steps to follow to run app
+
+1. install react
+
+// download zip file of spotify-clone
+// open terminal
+2. git clone https://github.com/kumarsgoyal/spotify-clone.git
+
+// install dependency by running below command
+3. npm i
+or 
+3. npm install
+
+// get your client id from spotify developer dashboard
+and chnage it with clientId  in spotify-clone/src/spotify.js in line number 9
